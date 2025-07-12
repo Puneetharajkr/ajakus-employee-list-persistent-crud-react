@@ -1,0 +1,26 @@
+/* src/styles/Pagination.module.css */
+.paginationContainer {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 25px;
+}
+
+.pageBtn {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  background-color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  min-width: 36px;
+}
+
+.pageBtn:hover {
+  background-color: #f8f9fa;
+}
+
+.activePage {
+  background-color: #3498db;
+  color: white;
+  border-color: #3498db;
+}

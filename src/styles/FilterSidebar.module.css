@@ -1,0 +1,71 @@
+/* src/styles/FilterSidebar.module.css */
+.filterContainer {
+  background: rgb(221, 247, 245);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  border: 1px solid #e0e0e0;
+}
+
+.filterTitle {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #2c3e50;
+  font-size: 16px;
+}
+
+.filterRow {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.filterGroup {
+  flex: 1;
+  min-width: 200px;
+}
+
+.filterInput {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.filterInput:focus {
+  outline: none;
+  border-color: #3498db;
+  box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.1);
+}
+
+.filterButtons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.filterButton {
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.applyButton {
+  background-color: #3498db;
+  color: white;
+  border: none;
+}
+
+.clearButton {
+  background-color: #f8f9fa;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+.filterButton:hover {
+  opacity: 0.9;
+}

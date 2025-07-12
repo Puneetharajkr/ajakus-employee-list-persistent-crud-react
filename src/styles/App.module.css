@@ -1,0 +1,16 @@
+.app {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #d1e0f7; /* Professional light gray background */
+  min-height: 100vh;
+}
+
+.app h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
