@@ -147,9 +147,9 @@ employee-directory/
 ---
 
 ## 🎥 Demo Video
-```
-📽️ Video Walkthrough: https://drive.google.com/file/d/1H3rlaAlzH37s7e1nHemAvFb41hdfVgFS/view?usp=sharing
-```
+
+📽️ Video Walkthrough: (https://drive.google.com/file/d/1H3rlaAlzH37s7e1nHemAvFb41hdfVgFS/view?usp=sharing)
+
 
 
 
