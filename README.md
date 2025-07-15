@@ -99,49 +99,49 @@ employee-directory/
 ## 🖼️ Screenshots
 
 ### 🏠 Dashboard View  
-![Dashboard View]: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f2b87e8-fd8e-41c4-a986-e7ce43a0e567" />
+Dashboard View: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f2b87e8-fd8e-41c4-a986-e7ce43a0e567" />
 
 
 ### ➕ Add New Employee Form Validation 
-![Add Employee Form Validation] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0f75059-7fb9-4b78-b354-e37bacce7505" />
+Add Employee Form Validation <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0f75059-7fb9-4b78-b354-e37bacce7505" />
 
 ### ➕ New Employee "Raj kr" Added
-![Add Employee] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02001810-fccd-4a76-83a7-8ffd24e539e2" />
+Add Employee <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02001810-fccd-4a76-83a7-8ffd24e539e2" />
 
 
 ### ✏️ Edit Employee  
-![Edit "Raj kr" Employee Details] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/340aedfe-3ec2-4156-ae50-04ed9410c66d" />
+Edit "Raj kr" Employee Details <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/340aedfe-3ec2-4156-ae50-04ed9410c66d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bafd6853-964b-4c37-a500-8797f1761e8a" />
 
 
 
 ### 🔍 Search & Filter  
-![Search by First Name]:
+Search by First Name:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d84e180d-353f-4895-a80d-3936d6cd34a3" />
 
-![Filter by First Name with Raj]: 
+Filter by First Name with Raj: 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fdddfc8-bd01-4872-84a9-ea53a945933f" />
 
-![Filter by Department with  HR]:
+Filter by Department with  HR:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66d0bb10-3da2-4a08-9acd-d1c7e45c17e9" />
 
-![Filter by Role with  Frontend]:
+Filter by Role with  Frontend:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b377e3f-42b2-4489-b6d2-7c0335532a01" />
 
 
 ### 🔍 Sorting 
-![Sort by First Name in DESC Order]:
+Sort by First Name in DESC Order:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf6a131c-ff45-415a-bb8f-f8c79337ad16" />
 
-![Sort by Department in ASC Order]:
+Sort by Department in ASC Order:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4c8f27f-27ed-4154-9e7f-3acb352a9a45" />
 
 ###  DELETE first 4 Employess
-![DELETE first 4 Employess from First1 to First4]:
+DELETE first 4 Employess from First1 to First4:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8589dc96-ffc7-4677-88e5-a4ff501885d9" />
 
 ### 🔄 Reset to Default Button  
-![Reset to Default Static Data to Get Same Employees from First1 to First4]:
+Reset to Default Static Data to Get Same Employees from First1 to First4:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d4b245a-22e9-46f0-9f0e-57bc561070ff" />
 
 ---
